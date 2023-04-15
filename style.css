@@ -1,0 +1,33 @@
+h1{
+    color: rgb(200, 67, 0);
+}
+h2{
+    color: rgb(200, 67, 0);
+}
+h3{
+    color:white;
+}
+a{
+    color: rgb(170, 38, 38);
+}
+html{
+    background-color: rgb(28, 28, 28);
+}
+p{
+    color:white;
+}
+img{
+    width: 600px;
+    height: 450px;
+    margin-left: 50px ;
+}
+.bigtext{
+    font-size: 1.5rem;
+}
+ul{
+    list-style-type: square;
+    color:white;
+}
+a:hover{
+    color: rgb(0, 0, 177);
+}
